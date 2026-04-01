@@ -15,7 +15,7 @@ Graduating from the Web Development program at Linnaeus University. I build full
 ## Featured Projects
 
 **[meterstream-platform](https://github.com/legitmattias/meterstream-platform)** — Cloud-native energy meter platform with six microservices, event-driven ingestion, and autoscaling
-`Python` `FastAPI` `React` `Kubernetes` `NATS JetStream` `InfluxDB` `Grafana` `Docker`
+`Python` `FastAPI` `React` `Kubernetes` `NATS JetStream` `InfluxDB` `Grafana` `Terraform` `Ansible` `Docker`
 
 **[riksdag-rag](https://github.com/legitmattias/riksdag-rag)** — RAG-powered semantic search over 33k+ Swedish parliament speeches
 `SvelteKit` `FastAPI` `ChromaDB` `OpenAI` `MongoDB` `Chart.js`
