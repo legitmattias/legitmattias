@@ -1,14 +1,71 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-dark.svg" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1e293b&height=200&text=Mattias%20Ubbesen&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Junior%20Fullstack%20Developer%20%C2%B7%20Stockholm&descSize=17&descColor=8b949e&descAlignY=55" width="100%"/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mattias-ubbesen/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&ensp;
+<a href="https://mattic.dev">
+<img src="https://img.shields.io/badge/mattic.dev-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+&nbsp;
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend-leaning+fullstack+developer;Building+APIs,+pipelines,+and+infrastructure;Most+comfortable+on+Linux&font=JetBrains+Mono&size=18&color=8b949e&center=true&width=500&height=45&duration=3000&pause=1500" alt="Typing SVG" />
+
+</div>
 
 &nbsp;
 
 Fullstack web developer with a backend focus. I enjoy building APIs, automating workflows, and solving the kind of problems that span multiple services and systems. Most comfortable on Linux, and drawn to DevOps and infrastructure when the project calls for it.
 
 Graduating from the Web Programmer program at Linnaeus University. Open to backend and fullstack roles.
+
+&nbsp;
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,bash&theme=dark" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,svelte,vite&theme=dark" alt="Frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,bun,express,hono,fastapi&theme=dark" alt="Backend" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,influxdb&theme=dark" alt="Databases" />
+&ensp;
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=for-the-badge&logoColor=white)
+
+**AI & ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logoColor=white)
+
+**Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,openstack,ansible,git,linux&theme=dark" alt="Infrastructure" />
+&ensp;
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
+
+**Monitoring & IoT**
+
+<img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Monitoring" />
+&ensp;
+![Telegraf](https://img.shields.io/badge/Telegraf-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+
+</div>
 
 &nbsp;
 
@@ -37,59 +94,11 @@ Graduating from the Web Programmer program at Linnaeus University. Open to backe
 
 &nbsp;
 
-## Tech Stack
-
-**Languages**&ensp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**&ensp;
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-
-**Backend**&ensp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Databases**&ensp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=flat-square&logoColor=white)
-
-**AI & ML**&ensp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logoColor=white)
-
-**Infrastructure**&ensp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform%20/%20OpenTofu-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Monitoring & IoT**&ensp;
-![Telegraf](https://img.shields.io/badge/Telegraf-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-
-&nbsp;
-
----
-
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/mattias-ubbesen/) · [mattic.dev](https://mattic.dev)
+<img src="https://github-readme-stats.vercel.app/api?username=legitmattias&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=3b82f6&ring_color=3b82f6" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legitmattias&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=8" height="170" alt="Top Languages" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1e293b&height=100&section=footer" width="100%"/>
