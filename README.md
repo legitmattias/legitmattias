@@ -90,6 +90,6 @@ Graduating from the Web Development program at Linnaeus University. I build full
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/mattias-ubbesen/) · [GitHub](https://github.com/legitmattias)
+[LinkedIn](https://www.linkedin.com/in/mattias-ubbesen/) · [mattic.dev](https://mattic.dev)
 
 </div>
