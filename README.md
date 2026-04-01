@@ -84,11 +84,4 @@ Graduating from the Web Programmer program at Linnaeus University. Open to backe
 
 &nbsp;
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=legitmattias&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=3b82f6&ring_color=3b82f6" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legitmattias&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=8" height="170" alt="Top Languages" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1e293b&height=100&section=footer" width="100%"/>
