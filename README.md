@@ -11,7 +11,7 @@
 
 &nbsp;
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend-leaning+fullstack+developer;Building+APIs,+pipelines,+and+infrastructure;Most+comfortable+on+Linux&font=JetBrains+Mono&size=18&color=8b949e&center=true&width=500&height=45&duration=3000&pause=1500" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend-leaning+fullstack+developer;If+it+can+be+automated,+it+should+be;Linux&font=JetBrains+Mono&size=18&color=8b949e&center=true&width=500&height=45&duration=3000&pause=1500" alt="Typing SVG" />
 
 </div>
 
