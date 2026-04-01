@@ -6,33 +6,33 @@
 
 &nbsp;
 
-Fullstack development, system and network administration, automation, and IoT.
+I gravitate towards backend development, DevOps, and infrastructure. Most of my projects involve building APIs, setting up CI/CD pipelines, provisioning servers, and writing the scripts and tooling that tie everything together. I work primarily on Linux and prefer to automate what I can.
 
-Graduating from the Web Development program at Linnaeus University. I build fullstack applications and cloud-native systems — from React frontends and Python backends to Kubernetes clusters and IoT hardware. Currently looking for my first developer role.
+Graduating from the Web Development program at Linnaeus University. Open to opportunities in backend, DevOps, or platform engineering.
 
 &nbsp;
 
 ## Featured Projects
 
-**[meterstream-platform](https://github.com/legitmattias/meterstream-platform)** — Cloud-native energy meter platform with six microservices, event-driven ingestion, and autoscaling
+**[meterstream-platform](https://github.com/legitmattias/meterstream-platform)** · Cloud-native energy meter platform with six microservices, event-driven ingestion, and autoscaling
 `Python` `FastAPI` `React` `Kubernetes` `NATS JetStream` `InfluxDB` `Grafana` `Terraform` `Ansible` `Docker`
 
-**[riksdag-rag](https://github.com/legitmattias/riksdag-rag)** — RAG-powered semantic search over 33k+ Swedish parliament speeches
+**[riksdag-rag](https://github.com/legitmattias/riksdag-rag)** · RAG-powered semantic search over 33k+ Swedish parliament speeches
 `SvelteKit` `FastAPI` `ChromaDB` `OpenAI` `MongoDB` `Chart.js`
 
-**[iot-sensor-pipeline](https://github.com/legitmattias/iot-sensor-pipeline)** — End-to-end IoT pipeline from custom hardware sensors to real-time Grafana dashboards
+**[iot-sensor-pipeline](https://github.com/legitmattias/iot-sensor-pipeline)** · End-to-end IoT pipeline from custom hardware sensors to real-time Grafana dashboards
 `MicroPython` `MQTT` `Telegraf` `InfluxDB` `Grafana` `Docker` `Tailscale`
 
-**[my-magic-mirror](https://github.com/legitmattias/my-magic-mirror)** — Smart mirror with mobile control app, real-time widgets, and JWT authentication
+**[my-magic-mirror](https://github.com/legitmattias/my-magic-mirror)** · Smart mirror with mobile control app, real-time widgets, and JWT authentication
 `Node.js` `Express` `React` `MongoDB` `Socket.IO` `Docker`
 
-**[web-intelligence](https://github.com/legitmattias/web-intelligence)** — Five ML projects: recommendation systems, clustering, search engines, and text classification
+**[web-intelligence](https://github.com/legitmattias/web-intelligence)** · Five ML projects: recommendation systems, clustering, search engines, and text classification
 `Python` `FastAPI` `Svelte` `scikit-learn` `Pandas`
 
-**[ooad-uml](https://github.com/legitmattias/ooad-uml)** — Object-oriented design in Java: design patterns, SOLID, GRASP
+**[ooad-uml](https://github.com/legitmattias/ooad-uml)** · Object-oriented design in Java: design patterns, SOLID, GRASP
 `Java` `Gradle` `Abstract Factory` `Visitor` `MVC`
 
-**[algorithms-and-data-structures](https://github.com/legitmattias/algorithms-and-data-structures)** — Implementations from scratch: UnionFind, BST, hashtables, Dijkstra, hybrid sorting
+**[algorithms-and-data-structures](https://github.com/legitmattias/algorithms-and-data-structures)** · Implementations from scratch: UnionFind, BST, hashtables, Dijkstra, hybrid sorting
 `Python`
 
 &nbsp;
