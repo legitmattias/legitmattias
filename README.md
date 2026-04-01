@@ -32,20 +32,8 @@ Graduating from the Web Development program at Linnaeus University. I build full
 **[ooad-uml](https://github.com/legitmattias/ooad-uml)** — Object-oriented design in Java: design patterns, SOLID, GRASP
 `Java` `Gradle` `Abstract Factory` `Visitor` `MVC`
 
-&nbsp;
-
-<details>
-<summary><strong>More projects</strong></summary>
-
-&nbsp;
-
 **[algorithms-and-data-structures](https://github.com/legitmattias/algorithms-and-data-structures)** — Implementations from scratch: UnionFind, BST, hashtables, Dijkstra, hybrid sorting
 `Python`
-
-**[thesis-prototype](https://github.com/legitmattias/thesis-prototype)** — Experiment platform for bachelor thesis on AI-adapted code documentation
-`FastAPI` `jsPsych` `LiteLLM` `SQLModel` `CodeMirror`
-
-</details>
 
 &nbsp;
 
