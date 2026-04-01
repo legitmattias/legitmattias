@@ -1,10 +1,12 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" width="100%">
+</picture>
 
-# Mattias Ubbesen
+&nbsp;
 
-**Junior Fullstack Developer** · Stockholm
-
-</div>
+Fullstack development, system and network administration, automation, and IoT.
 
 Graduating from the Web Development program at Linnaeus University. I build fullstack applications and cloud-native systems — from React frontends and Python backends to Kubernetes clusters and IoT hardware. Currently looking for my first developer role.
 
@@ -13,7 +15,7 @@ Graduating from the Web Development program at Linnaeus University. I build full
 ## Featured Projects
 
 **[meterstream-platform](https://github.com/legitmattias/meterstream-platform)** — Cloud-native energy meter platform with six microservices, event-driven ingestion, and autoscaling
-`Python` `FastAPI` `Kubernetes` `NATS JetStream` `InfluxDB` `Grafana` `Docker`
+`Python` `FastAPI` `React` `Kubernetes` `NATS JetStream` `InfluxDB` `Grafana` `Docker`
 
 **[riksdag-rag](https://github.com/legitmattias/riksdag-rag)** — RAG-powered semantic search over 33k+ Swedish parliament speeches
 `SvelteKit` `FastAPI` `ChromaDB` `OpenAI` `MongoDB` `Chart.js`
@@ -43,9 +45,6 @@ Graduating from the Web Development program at Linnaeus University. I build full
 **[thesis-prototype](https://github.com/legitmattias/thesis-prototype)** — Experiment platform for bachelor thesis on AI-adapted code documentation
 `FastAPI` `jsPsych` `LiteLLM` `SQLModel` `CodeMirror`
 
-**[Bachelor_Thesis_LNU](https://github.com/legitmattias/Bachelor_Thesis_LNU)** — LaTeX thesis: AI-adapted code documentation and developer comprehension
-`LaTeX`
-
 </details>
 
 &nbsp;
@@ -57,6 +56,7 @@ Graduating from the Web Development program at Linnaeus University. I build full
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**&ensp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -67,15 +67,25 @@ Graduating from the Web Development program at Linnaeus University. I build full
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Data**&ensp;
+**Data & AI**&ensp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Infrastructure**&ensp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Monitoring & IoT**&ensp;
+![Telegraf](https://img.shields.io/badge/Telegraf-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 
 &nbsp;
 
@@ -83,6 +93,6 @@ Graduating from the Web Development program at Linnaeus University. I build full
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [legitmattias@github](https://github.com/legitmattias)
+[LinkedIn](https://www.linkedin.com/in/mattias-ubbesen/) · [GitHub](https://github.com/legitmattias)
 
 </div>
