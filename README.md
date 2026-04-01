@@ -6,9 +6,9 @@
 
 &nbsp;
 
-I gravitate towards backend development, DevOps, and infrastructure. Most of my projects involve building APIs, setting up CI/CD pipelines, provisioning servers, and writing the scripts and tooling that tie everything together. I work primarily on Linux and prefer to automate what I can.
+Fullstack web developer with a backend focus. I enjoy building APIs, automating workflows, and solving the kind of problems that span multiple services and systems. Most comfortable on Linux, and drawn to DevOps and infrastructure when the project calls for it.
 
-Graduating from the Web Development program at Linnaeus University. Open to opportunities in backend, DevOps, or platform engineering.
+Graduating from the Web Development program at Linnaeus University. Open to backend and fullstack roles.
 
 &nbsp;
 
