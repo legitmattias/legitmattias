@@ -11,7 +11,7 @@
 
 &nbsp;
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Automate&font=JetBrains+Mono&size=18&color=8b949e&center=true&width=500&height=45&duration=3000&pause=2000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Automate&font=JetBrains+Mono&size=18&color=8b949e&center=true&width=500&height=45&duration=3000&pause=2000&repeat=false" alt="Typing SVG" />
 
 </div>
 
