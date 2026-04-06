@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1e293b&height=200&text=Mattias%20Ubbesen&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Junior%20Fullstack%20Developer%20%C2%B7%20Stockholm&descSize=17&descColor=8b949e&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1e293b&height=200&text=Mattias%20Ubbesen&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%C2%B7%20Stockholm&descSize=17&descColor=8b949e&descAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -11,13 +11,13 @@
 
 &nbsp;
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend-leaning+fullstack+developer;If+it+can+be+automated,+it+should+be&font=JetBrains+Mono&size=18&color=8b949e&center=true&width=500&height=45&duration=3000&pause=1500" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Automate&font=JetBrains+Mono&size=18&color=8b949e&center=true&width=500&height=45&duration=3000&pause=2000" alt="Typing SVG" />
 
 </div>
 
 &nbsp;
 
-Fullstack web developer with a backend focus. I enjoy building APIs, automating workflows, and solving the kind of problems that span multiple services and systems. Most comfortable on Linux, and drawn to DevOps and infrastructure when the project calls for it.
+Fullstack web developer with a backend focus. I enjoy building APIs, automating workflows, and solving the kind of problems that span multiple services and systems.
 
 Graduating from the Web Programmer program at Linnaeus University. Open to backend and fullstack roles.
 
