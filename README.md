@@ -61,11 +61,11 @@ Graduating from the Web Programmer program at Linnaeus University. Open to backe
 
 ## Featured Projects
 
-**[curios-project](https://github.com/legitmattias/curios-project)** · Browser-based OS portfolio at [mattic.dev](https://mattic.dev) — every "app" (file explorer, terminal, system monitor, document viewer) hits a real REST API
-`SvelteKit` `Svelte 5` `Hono` `Bun` `PostgreSQL` `Drizzle` `Zod` `Docker` `GitHub Actions`
+**[curios](https://github.com/legitmattias/curios)** · Portfolio site presenting as a browser-based OS where every app does real work — a terminal hitting a live API, a system monitor streaming WebSocket metrics, and an AI chat agent using Claude with MCP tool-calling over a live knowledge profile. pnpm monorepo with SvelteKit frontend and Hono/Bun backend, deployed as Docker containers behind Caddy on a Hetzner VPS.
+`SvelteKit` `Svelte 5` `Hono` `Bun` `PostgreSQL` `Drizzle` `WebSocket` `MCP` `Docker` `Caddy`
 
-**[dossier-project](https://github.com/legitmattias/dossier-project)** · Structured portable profile of skills, goals, and interests for LLM personalization — MCP server with 12 tools, CLI, clean-architecture monorepo
-`TypeScript` `Zod` `MCP SDK` `Commander` `Vitest` `pnpm`
+**[dossier](https://github.com/legitmattias/dossier)** · Personal knowledge profile system that gives LLMs persistent context about what you know, are learning, and are building — eliminating the cold-start problem on every AI session. Structured, exportable profiles with a native MCP server that plugs directly into Claude. Monorepo with five coordinated packages: domain core, CLI, MCP server, Hono REST API, and Remix web dashboard — backed by PostgreSQL with JWT and API key auth.
+`TypeScript` `MCP SDK` `Hono` `Remix` `PostgreSQL` `Zod` `JWT` `Vitest` `pnpm`
 
 **[meterstream-platform](https://github.com/legitmattias/meterstream-platform)** · Cloud-native energy meter platform with six microservices, event-driven ingestion, and autoscaling
 `Python` `FastAPI` `React` `Kubernetes` `NATS JetStream` `InfluxDB` `Grafana` `Terraform` `Ansible` `Docker`
