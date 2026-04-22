@@ -61,6 +61,12 @@ Graduating from the Web Programmer program at Linnaeus University. Open to backe
 
 ## Featured Projects
 
+**[curios-project](https://github.com/legitmattias/curios-project)** · Browser-based OS portfolio at [mattic.dev](https://mattic.dev) — every "app" (file explorer, terminal, system monitor, document viewer) hits a real REST API
+`SvelteKit` `Svelte 5` `Hono` `Bun` `PostgreSQL` `Drizzle` `Zod` `Docker` `GitHub Actions`
+
+**[dossier-project](https://github.com/legitmattias/dossier-project)** · Structured portable profile of skills, goals, and interests for LLM personalization — MCP server with 12 tools, CLI, clean-architecture monorepo
+`TypeScript` `Zod` `MCP SDK` `Commander` `Vitest` `pnpm`
+
 **[meterstream-platform](https://github.com/legitmattias/meterstream-platform)** · Cloud-native energy meter platform with six microservices, event-driven ingestion, and autoscaling
 `Python` `FastAPI` `React` `Kubernetes` `NATS JetStream` `InfluxDB` `Grafana` `Terraform` `Ansible` `Docker`
 
