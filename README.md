@@ -19,7 +19,7 @@
 
 Fullstack web developer with a backend focus. I enjoy building APIs, automating workflows, and solving the kind of problems that span multiple services and systems.
 
-Graduating from the Web Programmer program at Linnaeus University. Open to backend and fullstack roles.
+Open to backend and fullstack roles.
 
 &nbsp;
 
