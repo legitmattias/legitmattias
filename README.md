@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1e293b&height=200&text=Mattias%20Ubbesen&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%C2%B7%20Stockholm&descSize=17&descColor=8b949e&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1e293b&height=200&text=Mattias%20Ubbesen&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Developer%20%C2%B7%20Stockholm&descSize=17&descColor=8b949e&descAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 Full-stack web developer with a backend focus. I enjoy building APIs, automating workflows, and solving the kind of problems that span multiple services and systems.
 
-Open to backend and fullstack roles.
+Open to backend and full-stack roles.
 
 &nbsp;
 
