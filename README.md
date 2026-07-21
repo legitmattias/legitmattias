@@ -17,7 +17,7 @@
 
 &nbsp;
 
-Fullstack web developer with a backend focus. I enjoy building APIs, automating workflows, and solving the kind of problems that span multiple services and systems.
+Full-stack web developer with a backend focus. I enjoy building APIs, automating workflows, and solving the kind of problems that span multiple services and systems.
 
 Open to backend and fullstack roles.
 
